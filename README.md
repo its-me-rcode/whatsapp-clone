@@ -1,4 +1,4 @@
-# Facebook NextJs Clone
+# WhatsApp NextJs Clone
 
 This is a Whats App Clone , Build with React. Used Styled Components CSS for styling.
 
